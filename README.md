@@ -1,8 +1,8 @@
-### Hi there 👋
+## 👋 Hi there ! 
 
-My name is Rutvik Umak. I am a Javascript Developer and now learning full stack web development. I am from Pune, India and working at Capgemini.
+### My name is Rutvik Umak. I am a Javascript Developer and now learning full stack web development. I am from Pune, India and working at Capgemini.
 
-
+<br>
 
 ## 🔧 Languages & Tools
 
@@ -15,7 +15,7 @@ My name is Rutvik Umak. I am a Javascript Developer and now learning full stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"width="50" height="50" />
   </p>
-  
+<br>  
  
 ## &#x1f4c8; GitHub Stats
 
@@ -27,13 +27,14 @@ My name is Rutvik Umak. I am a Javascript Developer and now learning full stack 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvikpumak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rutvik's GitHub Stats" />
 </a>
 </div>
+<br>
 
-
-## 🔗Connect with me
+## 🔗 Connect with me
 
 <a href="https://twitter.com/rutvikumak13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutvikumak" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rutvik-umak-58b299186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutvikumak" height="30" width="40" /></a>
 <a href="https://instagram.com/rutvikumak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rutvikumak" height="30" width="40" /></a>
+<a href="mailto:rutvikumak@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="rutvikumak@gmail.com" height="40" width="40" /></a>
 
 <!--
 **rutvikpumak/rutvikpumak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
