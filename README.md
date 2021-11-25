@@ -1,15 +1,18 @@
 <div align="center">
-<img src="coding.svg" width="300" height="200"/></div>
+<img src="coding.svg" width="300" height="200"/>
 <br>
 
-
-## 👋 Hi there ! 
-
-### My name is Rutvik Umak. I am a Javascript Developer and now learning full stack web development. I am from Pune, India and working at Capgemini.
-
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rutvik Umak](https://rutvikumak.netlify.app)
+  </div>
+  
+* 👨‍💻 I’m currently learning Full Stack Web Developement.
+* 👨‍💻 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/rutvikumak">HackerRank</a> in Problem Solving Skill.
+* 👨‍💻 I like to showcase my work, check it out here : <a href="https://rutvikumak.netlify.app/projects.html">Projects</a>
+* 📄 Want to hire me? Check out my  <a href="https://drive.google.com/file/d/1lQSYzMe5jk1HOS68cKJoA_ZpcquwJSBM/view">Resume</a>
+* ⚡ Fun facts : I love to reading books, having workout & I enjoy on bike riding.
 <br>
 
-## 🔧 Languages & Tools
+## 🧰 My Tech Toolbox
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -17,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"width="50" height="50" />
   </p>
