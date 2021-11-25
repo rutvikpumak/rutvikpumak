@@ -1,3 +1,8 @@
+<div align="center">
+<img src="coding.svg" width="300" height="200"/></div>
+<br>
+
+
 ## 👋 Hi there ! 
 
 ### My name is Rutvik Umak. I am a Javascript Developer and now learning full stack web development. I am from Pune, India and working at Capgemini.
