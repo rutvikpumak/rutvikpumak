@@ -4,7 +4,12 @@
 
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rutvik Umak](https://rutvikumak.netlify.app)
   </div>
-  
+  <div align=center>
+  <a href="https://www.linkedin.com/in/rutvikumak/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://twitter.com/rutvikumak13"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <br><br>
+ <p><img src="https://komarev.com/ghpvc/?username=rutvikpumak" alt="sadanandpai" /></p>
+</div>
   <p>All my work life at one place:<p>
   <a href="https://peerlist.io/rutvikumak"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
   <br>
