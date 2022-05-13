@@ -16,11 +16,12 @@
  <br>
   
   
-* 👨‍💻 I’m currently learning Full Stack Web Developement.
-* 👨‍💻 Earned Gold badge & 5 star at <a href="https://www.hackerrank.com/rutvikumak">HackerRank</a> in Problem Solving Skill.
-* 👨‍💻 I like to showcase my work, check it out here : <a href="https://rutvikumak.netlify.app/projects.html">Projects</a>
-* 📄 Want to hire me? Check out my  <a href="https://drive.google.com/file/d/1lQSYzMe5jk1HOS68cKJoA_ZpcquwJSBM/view">Resume</a>
-* ⚡ Fun facts : I love to reading books, having workout & I enjoy on bike riding.
+* 👨‍💻 I’m Frond End Developer and currently learning Full Stack Web Developement.
+* Checkout my blogs :<br>
+  1] <a href="https://rutvikumak.hashnode.dev/nullish-coalescing-operator" target="_blank"> Nullish Coelcing Operator </a> <br>
+  2] <a href="https://dev.to/rutvikumak/why-react-is-ui-library-and-not-a-framework--4cal" target="_blank"> Why React is UI Library and not a Framework ? </a><br>
+  3] <a href="https://dev.to/rutvikumak/react-useref-hook-2hc4" target="_blank"> React useRef Hook </a>
+  
 <br>
 
 ## 🧰 My Tech Toolbox
@@ -30,8 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"width="50" height="50" />
   </p>
