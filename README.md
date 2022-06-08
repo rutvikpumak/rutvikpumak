@@ -2,7 +2,7 @@
 <img src="coding.svg" width="300" height="200"/>
 <br>
 
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rutvik Umak](https://rutvikumak.netlify.app)
+# Hi, I am Rutvik Umak
   </div>
   <div align=center>
   <a href="https://www.linkedin.com/in/rutvikumak/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
