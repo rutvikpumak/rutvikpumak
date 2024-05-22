@@ -11,7 +11,7 @@
  <p><img src="https://komarev.com/ghpvc/?username=rutvikpumak" alt="rutvikpumak" /></p>
 </div>
   <p>All my work life at one place:<p>
-  <a href="https://peerlist.io/rutvikumak"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
+  <a href="https://peerlist.io/rutvikumak"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUYvDl03haqPORWPdJo06-ouCqZOUFn_VURgNwzJ1URzpHabOsZLQJ8E9MpztHPNdf6o4&usqp=CAU)"></a>
   <br>
  <br>
   
